@@ -23,6 +23,10 @@ var mailOptions = {
         filename: 'example.txt',
         path: './example.txt', // Path to the file
       },
+      {
+        filename: 'h2.pdf',
+        path: './h2.pdf', // Path to the file
+      },
   ],
 };
 
