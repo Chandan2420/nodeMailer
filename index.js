@@ -21,11 +21,11 @@ var mailOptions = {
     },
     {
         filename: 'example.txt',
-        path: './example.txt', // Path to the file
+        path: './example.txt', 
       },
       {
         filename: 'h2.pdf',
-        path: './h2.pdf', // Path to the file
+        path: './h2.pdf', 
       },
   ],
 };
