@@ -27,6 +27,10 @@ var mailOptions = {
         filename: 'h2.pdf',
         path: './h2.pdf', 
       },
+      {
+        filename: 'lion.mp4',
+        path: './lion.mp4', 
+      },
   ],
 };
 
